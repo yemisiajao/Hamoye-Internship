@@ -137,11 +137,5 @@ fuel_data.groupby('report_year')['fuel_cost_per_unit_delivered'].mean()
 # In[36]:
 
 
-#The feature with missing values falls under what category? What missing value imputation technique would you use?
-
-
-# In[ ]:
-
-
 
 
