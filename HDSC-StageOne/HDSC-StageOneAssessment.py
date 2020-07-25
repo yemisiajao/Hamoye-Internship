@@ -123,7 +123,7 @@ print(correlation)
 
 
 # Question 9: For the fuel type coal, what is the percentage change in the fuel cost per unit burned in 1998 compared to 1994?
-
+fuel_coal.groupby("report_year").sum()["fuel_cost_per_unit_burned"]
 
 # In[65]:
 
