@@ -1,0 +1,451 @@
+Country,Year,Value
+Algeria,2004,2987
+Algeria,2005,2958
+Algeria,2006,3047
+Algeria,2007,3041
+Algeria,2008,3048
+Algeria,2009,3110
+Algeria,2010,3142
+Algeria,2011,3217
+Algeria,2012,3272
+Algeria,2013,3296
+Angola,2004,2030
+Angola,2005,2077
+Angola,2006,2119
+Angola,2007,2173
+Angola,2008,2245
+Angola,2009,2303
+Angola,2010,2345
+Angola,2011,2407
+Angola,2012,2384
+Angola,2013,2473
+Benin,2004,2461
+Benin,2005,2435
+Benin,2006,2450
+Benin,2007,2564
+Benin,2008,2521
+Benin,2009,2565
+Benin,2010,2555
+Benin,2011,2598
+Benin,2012,2610
+Benin,2013,2619
+Botswana,2004,2191
+Botswana,2005,2198
+Botswana,2006,2150
+Botswana,2007,2166
+Botswana,2008,2184
+Botswana,2009,2199
+Botswana,2010,2234
+Botswana,2011,2273
+Botswana,2012,2342
+Botswana,2013,2326
+Burkina Faso,2004,2505
+Burkina Faso,2005,2463
+Burkina Faso,2006,2559
+Burkina Faso,2007,2546
+Burkina Faso,2008,2588
+Burkina Faso,2009,2639
+Burkina Faso,2010,2681
+Burkina Faso,2011,2664
+Burkina Faso,2012,2707
+Burkina Faso,2013,2720
+Cabo Verde,2004,2523
+Cabo Verde,2005,2517
+Cabo Verde,2006,2513
+Cabo Verde,2007,2574
+Cabo Verde,2008,2540
+Cabo Verde,2009,2558
+Cabo Verde,2010,2524
+Cabo Verde,2011,2566
+Cabo Verde,2012,2590
+Cabo Verde,2013,2609
+Cameroon,2004,2246
+Cameroon,2005,2311
+Cameroon,2006,2354
+Cameroon,2007,2378
+Cameroon,2008,2446
+Cameroon,2009,2492
+Cameroon,2010,2510
+Cameroon,2011,2573
+Cameroon,2012,2622
+Cameroon,2013,2671
+Central African Republic,2004,1989
+Central African Republic,2005,2026
+Central African Republic,2006,2029
+Central African Republic,2007,2090
+Central African Republic,2008,2133
+Central African Republic,2009,2139
+Central African Republic,2010,2164
+Central African Republic,2011,2154
+Central African Republic,2012,2116
+Central African Republic,2013,1879
+Chad,2004,2026
+Chad,2005,2034
+Chad,2006,2022
+Chad,2007,2028
+Chad,2008,2027
+Chad,2009,2021
+Chad,2010,2057
+Chad,2011,2062
+Chad,2012,2124
+Chad,2013,2110
+Congo,2004,2263
+Congo,2005,2043
+Congo,2006,2143
+Congo,2007,2135
+Congo,2008,2110
+Congo,2009,2142
+Congo,2010,2143
+Congo,2011,2185
+Congo,2012,2158
+Congo,2013,2208
+Cote d'Ivoire,2004,2738
+Cote d'Ivoire,2005,2787
+Cote d'Ivoire,2006,2783
+Cote d'Ivoire,2007,2792
+Cote d'Ivoire,2008,2739
+Cote d'Ivoire,2009,2727
+Cote d'Ivoire,2010,2737
+Cote d'Ivoire,2011,2784
+Cote d'Ivoire,2012,2780
+Cote d'Ivoire,2013,2799
+Djibouti,2004,2136
+Djibouti,2005,2265
+Djibouti,2006,2314
+Djibouti,2007,2414
+Djibouti,2008,2447
+Djibouti,2009,2466
+Djibouti,2010,2467
+Djibouti,2011,2504
+Djibouti,2012,2545
+Djibouti,2013,2607
+Egypt,2004,3309
+Egypt,2005,3367
+Egypt,2006,3389
+Egypt,2007,3445
+Egypt,2008,3490
+Egypt,2009,3441
+Egypt,2010,3507
+Egypt,2011,3549
+Egypt,2012,3561
+Egypt,2013,3522
+Ethiopia,2004,1882
+Ethiopia,2005,1978
+Ethiopia,2006,1967
+Ethiopia,2007,1957
+Ethiopia,2008,2018
+Ethiopia,2009,2052
+Ethiopia,2010,2080
+Ethiopia,2011,2103
+Ethiopia,2012,2124
+Ethiopia,2013,2131
+Gabon,2004,2676
+Gabon,2005,2715
+Gabon,2006,2716
+Gabon,2007,2711
+Gabon,2008,2653
+Gabon,2009,2699
+Gabon,2010,2732
+Gabon,2011,2772
+Gabon,2012,2795
+Gabon,2013,2830
+Gambia,2004,2465
+Gambia,2005,2442
+Gambia,2006,2397
+Gambia,2007,2535
+Gambia,2008,2589
+Gambia,2009,2621
+Gambia,2010,2674
+Gambia,2011,2692
+Gambia,2012,2652
+Gambia,2013,2628
+Ghana,2004,2682
+Ghana,2005,2751
+Ghana,2006,2824
+Ghana,2007,2803
+Ghana,2008,2950
+Ghana,2009,3032
+Ghana,2010,3077
+Ghana,2011,3002
+Ghana,2012,3043
+Ghana,2013,3016
+Guinea,2004,2426
+Guinea,2005,2443
+Guinea,2006,2503
+Guinea,2007,2505
+Guinea,2008,2534
+Guinea,2009,2546
+Guinea,2010,2550
+Guinea,2011,2546
+Guinea,2012,2561
+Guinea,2013,2566
+Guinea-Bissau,2004,2257
+Guinea-Bissau,2005,2273
+Guinea-Bissau,2006,2253
+Guinea-Bissau,2007,2293
+Guinea-Bissau,2008,2304
+Guinea-Bissau,2009,2278
+Guinea-Bissau,2010,2346
+Guinea-Bissau,2011,2336
+Guinea-Bissau,2012,2331
+Guinea-Bissau,2013,2292
+Kenya,2004,2022
+Kenya,2005,2161
+Kenya,2006,2161
+Kenya,2007,2110
+Kenya,2008,2106
+Kenya,2009,2165
+Kenya,2010,2160
+Kenya,2011,2170
+Kenya,2012,2192
+Kenya,2013,2206
+Lesotho,2004,2541
+Lesotho,2005,2567
+Lesotho,2006,2595
+Lesotho,2007,2560
+Lesotho,2008,2558
+Lesotho,2009,2569
+Lesotho,2010,2572
+Lesotho,2011,2550
+Lesotho,2012,2547
+Lesotho,2013,2529
+Liberia,2004,2092
+Liberia,2005,2160
+Liberia,2006,2116
+Liberia,2007,2145
+Liberia,2008,2227
+Liberia,2009,2231
+Liberia,2010,2198
+Liberia,2011,2254
+Liberia,2012,2200
+Liberia,2013,2204
+Madagascar,2004,1980
+Madagascar,2005,2060
+Madagascar,2006,2083
+Madagascar,2007,2096
+Madagascar,2008,2061
+Madagascar,2009,2065
+Madagascar,2010,2068
+Madagascar,2011,2085
+Madagascar,2012,2058
+Madagascar,2013,2052
+Malawi,2004,2166
+Malawi,2005,2191
+Malawi,2006,2269
+Malawi,2007,2293
+Malawi,2008,2318
+Malawi,2009,2311
+Malawi,2010,2329
+Malawi,2011,2348
+Malawi,2012,2333
+Malawi,2013,2367
+Mali,2004,2540
+Mali,2005,2583
+Mali,2006,2654
+Mali,2007,2722
+Mali,2008,2777
+Mali,2009,2831
+Mali,2010,2813
+Mali,2011,2832
+Mali,2012,2860
+Mali,2013,2890
+Mauritania,2004,2599
+Mauritania,2005,2629
+Mauritania,2006,2603
+Mauritania,2007,2726
+Mauritania,2008,2772
+Mauritania,2009,2762
+Mauritania,2010,2797
+Mauritania,2011,2806
+Mauritania,2012,2873
+Mauritania,2013,2876
+Mauritius,2004,3023
+Mauritius,2005,3009
+Mauritius,2006,3022
+Mauritius,2007,3076
+Mauritius,2008,3001
+Mauritius,2009,3124
+Mauritius,2010,3151
+Mauritius,2011,3058
+Mauritius,2012,3014
+Mauritius,2013,3065
+Morocco,2004,3263
+Morocco,2005,3206
+Morocco,2006,3271
+Morocco,2007,3251
+Morocco,2008,3271
+Morocco,2009,3293
+Morocco,2010,3294
+Morocco,2011,3349
+Morocco,2012,3366
+Morocco,2013,3403
+Mozambique,2004,2059
+Mozambique,2005,2038
+Mozambique,2006,2111
+Mozambique,2007,2083
+Mozambique,2008,2164
+Mozambique,2009,2165
+Mozambique,2010,2242
+Mozambique,2011,2259
+Mozambique,2012,2298
+Mozambique,2013,2283
+Namibia,2004,2268
+Namibia,2005,2243
+Namibia,2006,2230
+Namibia,2007,2218
+Namibia,2008,2120
+Namibia,2009,2062
+Namibia,2010,2055
+Namibia,2011,2090
+Namibia,2012,2145
+Namibia,2013,2171
+Niger,2004,2453
+Niger,2005,2444
+Niger,2006,2442
+Niger,2007,2461
+Niger,2008,2520
+Niger,2009,2523
+Niger,2010,2533
+Niger,2011,2534
+Niger,2012,2567
+Niger,2013,2547
+Nigeria,2004,2655
+Nigeria,2005,2705
+Nigeria,2006,2725
+Nigeria,2007,2720
+Nigeria,2008,2723
+Nigeria,2009,2683
+Nigeria,2010,2706
+Nigeria,2011,2706
+Nigeria,2012,2665
+Nigeria,2013,2700
+Rwanda,2004,1969
+Rwanda,2005,2037
+Rwanda,2006,2044
+Rwanda,2007,2053
+Rwanda,2008,2101
+Rwanda,2009,2196
+Rwanda,2010,2198
+Rwanda,2011,2213
+Rwanda,2012,2270
+Rwanda,2013,2228
+Sao Tome and Principe,2004,2513
+Sao Tome and Principe,2005,2546
+Sao Tome and Principe,2006,2554
+Sao Tome and Principe,2007,2511
+Sao Tome and Principe,2008,2466
+Sao Tome and Principe,2009,2435
+Sao Tome and Principe,2010,2368
+Sao Tome and Principe,2011,2331
+Sao Tome and Principe,2012,2338
+Sao Tome and Principe,2013,2400
+Senegal,2004,2248
+Senegal,2005,2237
+Senegal,2006,2310
+Senegal,2007,2342
+Senegal,2008,2439
+Senegal,2009,2446
+Senegal,2010,2435
+Senegal,2011,2428
+Senegal,2012,2443
+Senegal,2013,2456
+Sierra Leone,2004,2024
+Sierra Leone,2005,2082
+Sierra Leone,2006,2155
+Sierra Leone,2007,2194
+Sierra Leone,2008,2197
+Sierra Leone,2009,2251
+Sierra Leone,2010,2275
+Sierra Leone,2011,2335
+Sierra Leone,2012,2374
+Sierra Leone,2013,2404
+South Africa,2004,2940
+South Africa,2005,2952
+South Africa,2006,2927
+South Africa,2007,2920
+South Africa,2008,2924
+South Africa,2009,2936
+South Africa,2010,2992
+South Africa,2011,3002
+South Africa,2012,3014
+South Africa,2013,3022
+Sudan,2012,2301
+Sudan,2013,2336
+Sudan,2004,2271
+Sudan,2005,2296
+Sudan,2006,2331
+Sudan,2007,2344
+Sudan,2008,2344
+Sudan,2009,2346
+Sudan,2010,2323
+Sudan,2011,2346
+Swaziland,2004,2469
+Swaziland,2005,2372
+Swaziland,2006,2325
+Swaziland,2007,2310
+Swaziland,2008,2257
+Swaziland,2009,2249
+Swaziland,2010,2284
+Swaziland,2011,2283
+Swaziland,2012,2293
+Swaziland,2013,2329
+Togo,2004,2246
+Togo,2005,2238
+Togo,2006,2283
+Togo,2007,2295
+Togo,2008,2316
+Togo,2009,2340
+Togo,2010,2370
+Togo,2011,2383
+Togo,2012,2414
+Togo,2013,2454
+Tunisia,2004,3248
+Tunisia,2005,3220
+Tunisia,2006,3273
+Tunisia,2007,3252
+Tunisia,2008,3302
+Tunisia,2009,3335
+Tunisia,2010,3326
+Tunisia,2011,3360
+Tunisia,2012,3390
+Tunisia,2013,3349
+Uganda,2004,2351
+Uganda,2005,2327
+Uganda,2006,2276
+Uganda,2007,2212
+Uganda,2008,2177
+Uganda,2009,2194
+Uganda,2010,2200
+Uganda,2011,2178
+Uganda,2012,2160
+Uganda,2013,2130
+United Republic of Tanzania,2004,2098
+United Republic of Tanzania,2005,2134
+United Republic of Tanzania,2006,2141
+United Republic of Tanzania,2007,2215
+United Republic of Tanzania,2008,2132
+United Republic of Tanzania,2009,2133
+United Republic of Tanzania,2010,2097
+United Republic of Tanzania,2011,2200
+United Republic of Tanzania,2012,2192
+United Republic of Tanzania,2013,2208
+Zambia,2004,1866
+Zambia,2005,1873
+Zambia,2006,1838
+Zambia,2007,1781
+Zambia,2008,1801
+Zambia,2009,1878
+Zambia,2010,1904
+Zambia,2011,1907
+Zambia,2012,1923
+Zambia,2013,1930
+Zimbabwe,2004,2044
+Zimbabwe,2005,2025
+Zimbabwe,2006,2115
+Zimbabwe,2007,2109
+Zimbabwe,2008,2094
+Zimbabwe,2009,2147
+Zimbabwe,2010,2168
+Zimbabwe,2011,2200
+Zimbabwe,2012,2197
+Zimbabwe,2013,2110
